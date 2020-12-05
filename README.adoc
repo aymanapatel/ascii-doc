@@ -1,0 +1,112 @@
+= Readme
+// Metadata Start
+Ayman Patel
+2020-12-05
+:description: First
+:keywords: readme
+:imagesdir: ./img
+:experimental:
+:toc:
+:toclevels: 4
+:toc-title: Table
+:icons: font
+
+// Metadata End
+
+toc::[]
+
+== First Heading
+
+Sample Paragraph
+
+
+=== Subheading
+
+
+== Image
+image::tyler.png[Tyler]
+
+image::yourname.jpg[Tyler]
+
+
+== Text Formatting
+
+
+*Bold*
+
+__Italic__
+
+`code`
+
+```java
+public static void main() {
+}
+```
+
+
+== Table
+
+=== Simple Table
+
+.Table name
+[width="60%", cols="",options="header"]
+|===
+|Version    | Date | Comments
+|v1.0| 01/01/2020| Initial revision
+|===
+
+
+=== Complicated table
+
+.with asciidoc elements
+|===
+|Version | List | Note
+
+|kbd:[Ctrl+9] Set by `:experimental:` in header
+a|* Test 1
+* Test 2
+* Test 3
+a|
+[NOTE]
+====
+This is a good idea
+====
+
+|===
+
+== Import File
+
+
+=== Import Code
+
+
+include::res/Main.java[]
+
+== Insight/Admonition
+
+Requires `:icons: font` header for all admonition
+
+
+NOTE: Additional Info
+
+WARNING: Warning
+
+TIP: Pro
+
+IMPORTANT: Don't forget...
+
+WARNING: Watch out for...
+
+CAUTION: Ensure that...
+
+== UI Macros
+
+
+=== Button
+
+
+Set by `:experimental:` in header
+
+kbd:[Ctrl+T]
+
+kbd:[F11]

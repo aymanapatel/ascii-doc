@@ -1,0 +1,17 @@
+= TODO
+Ayman
+2019-05-30 14:00
+:imagesdir: img
+:icons: font
+:keywords:
+:toc:
+:experimental:
+:commandkey: &#8984;
+
+
+== Setup Gradle plugin
+
+
+== Publish to PDF
+
+== Use in site maybe blog
