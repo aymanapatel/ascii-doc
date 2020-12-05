@@ -1,0 +1,37 @@
+= Streaming Movies Ratings
+
+:imagesdir: img
+:icons: font
+:keywords:
+:toc:
+:experimental:
+:commandkey: &#8984;
+
+
+.TL;DR
+A full source code published in `gAmUssA/streaming-movie-ratings-min-0519` repository footnote:[https://github.com/gAmUssA/streaming-movie-ratings-min-0519]
+
+.Revisions history
+[width="70%",cols="",options="header"]
+|===
+|Version    |Date   | Comments
+|*v1.0*     |05/30/2010 | Initial revision
+|===
+
+toc::[]
+
+== TODO
+
+* Create PDF, EPUB and other format and combine them
+
+== PDF Example
+
+An example project that demonstrates how to convert AsciiDoc to PDF using the Asciidoctor Gradle plugin.
+
+=== Usage
+
+Convert the AsciiDoc to PDF by invoking the 'asciidoctor' goal:
+
+ $ ./gradlew asciidoctor
+
+Open the file _build/docs/asciidocPdf/example-manual.pdf_ in your browser to see the generated PDF file.
