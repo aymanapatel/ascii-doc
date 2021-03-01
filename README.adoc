@@ -10,7 +10,7 @@ Ayman Patel
 :toclevels: 4
 :toc-title: Table
 :icons: font
-:stem: math
+:stem: latexmath
 
 // Metadata End
 
