@@ -10,6 +10,7 @@ Ayman Patel
 :toclevels: 4
 :toc-title: Table
 :icons: font
+:stem: math
 
 // Metadata End
 
@@ -110,3 +111,13 @@ Set by `:experimental:` in header
 kbd:[Ctrl+T]
 
 kbd:[F11]
+
+
+== LATEX equation(not working)
+
+[latexmath]
+++++        
+
+\alpha + \beta
+
+++++
