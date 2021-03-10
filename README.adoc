@@ -113,11 +113,9 @@ kbd:[Ctrl+T]
 kbd:[F11]
 
 
-== LATEX equation(not working)
+== LATEX equation(works in Gitlab but not in Github)
 
-[latexmath]
-++++        
-
-\alpha + \beta
-
+[stem]
+++++
+a^2+b^2=c^2
 ++++
